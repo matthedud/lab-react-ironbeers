@@ -1,0 +1,19 @@
+.home-nav{
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    display: flex;
+    background-color: blue;
+    color: white;
+    justify-content: center;
+    padding: 0.5rem;
+}
+
+.home-nav img{
+    height: 5rem;
+    color: white;
+    fill: white;
+}
+main{
+    margin-top: 6rem;
+}

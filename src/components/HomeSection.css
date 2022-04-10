@@ -1,0 +1,28 @@
+.home-section{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-width: 400px;
+    max-width: 1000px;
+}
+
+.home-section picture{
+    height: 40vh;
+    overflow: hidden;
+}
+
+.home-section img{
+    width: 100%;
+}
+
+.home-section h1{
+    font-size: 3rem;
+    text-align: left;
+    margin: 0 2rem;
+}
+
+.home-section p{
+    color: rgb(158, 158, 158);
+    text-align: left;
+    margin: 0.5rem 2rem;
+}
